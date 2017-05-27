@@ -1,0 +1,28 @@
+.test, .kolor1 .kolor2 {
+  color: white; }
+
+.kolor1 .kolor2 {
+  background: blue; }
+
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif; }
+
+.row:before,
+.row:after {
+  content: " ";
+  display: table; }
+
+.row:after {
+  clear: both; }
+
+header {
+  background-color: #45D4FF;
+  height: auto;
+  text-align: center; }
+
+.container {
+  max-width: 100%;
+  margin: 0 auto; }
+
+/*# sourceMappingURL=main.css.map */
